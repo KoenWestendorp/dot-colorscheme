@@ -1,5 +1,10 @@
-A Lush Theme for Neovim.
-===
+# Dot colorscheme for Neovim
 
-See: http://git.io/lush.nvim for more information on Lush and a helper script
-to setup your repo clone.
+## Install 
+
+Using Plug:
+
+```vim
+Plug 'KoenWestendorp/dot-colorscheme'
+Plug 'rktjmp/lush.nvim'
+```
